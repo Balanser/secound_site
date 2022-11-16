@@ -11,13 +11,14 @@ export default class extends AbstractView {
         <h1>Мой блог</h1>
 
         <ul>
-        <li> <a href="/posts/1" data-link>Первый пост</a></li>
-        <li> <a href="/posts/2" data-link>Второй пост</a></li>
+        <li> <a href="/posts/1" data-link>Большая Перемена в моей жизни</a></li>
+        
     </ul>
 
     <p>
         <a href="/" data-link>На главную</a>
     </p>
         `
+        // <li> <a href="/posts/2" data-link>Второй пост</a></li>
     }
 }
